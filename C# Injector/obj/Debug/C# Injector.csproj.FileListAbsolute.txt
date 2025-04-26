@@ -1,0 +1,25 @@
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\bin\Debug\C# Injector.exe.config
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\bin\Debug\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\bin\Debug\C# Injector.pdb
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\obj\Debug\C# Injector.csproj.AssemblyReference.cache
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\obj\Debug\C# Injector.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\obj\Debug\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\obj\Debug\C# Injector.pdb
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\Amdxx64-Injector\Build\C# Injector.exe.config
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\Amdxx64-Injector\Build\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\Amdxx64-Injector\Build\C# Injector.pdb
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\$(SolutionDir)Build\C# Injector.exe.config
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\$(SolutionDir)Build\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\C# Injector\$(SolutionDir)Build\C# Injector.pdb
+C:\Users\conno\source\Amdxx64-Injector\Build\C# Injector.exe.config
+C:\Users\conno\source\Amdxx64-Injector\Build\C# Injector.exe
+C:\Users\conno\source\Amdxx64-Injector\Build\C# Injector.pdb
+C:\Amdxx64-Injector\Build\C# Injector.exe.config
+C:\Amdxx64-Injector\Build\C# Injector.exe
+C:\Amdxx64-Injector\Build\C# Injector.pdb
+C:\Users\conno\source\repos\Amdxx64-Injector\Amdxx64-Injector\Build\C# Injector.exe.config
+C:\Users\conno\source\repos\Amdxx64-Injector\Amdxx64-Injector\Build\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\Amdxx64-Injector\Build\C# Injector.pdb
+C:\Users\conno\source\repos\Amdxx64-Injector\Build\C# Injector.exe.config
+C:\Users\conno\source\repos\Amdxx64-Injector\Build\C# Injector.exe
+C:\Users\conno\source\repos\Amdxx64-Injector\Build\C# Injector.pdb
